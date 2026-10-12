@@ -1,0 +1,28 @@
+# Build output
+target/
+bin/
+out/
+*.class
+*.jar
+
+# Files written when running the demo
+pos-log.txt
+total-revenue.txt
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

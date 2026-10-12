@@ -1,0 +1,7 @@
+id,name,description,price,vatRate,stock
+# Prices exclude VAT. Food in Sweden has 12 % VAT.
+32001,Milk,Dairy 1.5 l,12.00,0.12,10
+32002,Banana,Fruit,5.00,0.12,10
+32003,Ice cream,Frozen 500 ml,49.00,0.12,10
+32004,Pasta,Dry goods 1 kg,15.00,0.12,10
+32005,Dish soap,Household,24.00,0.25,10

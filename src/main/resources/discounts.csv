@@ -1,0 +1,5 @@
+customerId,type,value
+# Discounts are applied in the order they are listed.
+C-1001,PERCENTAGE,10
+C-1001,FIXED_AMOUNT,50
+C-2002,PERCENTAGE,5
